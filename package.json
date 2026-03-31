@@ -1,8 +1,14 @@
 {
   "name": "bw-app-12-1774961969",
   "version": "1.0.0",
-  "description": "Black & white light-themed ops dashboard",
+  "description": "Quantum Canvas monochrome ops dashboard",
   "type": "module",
-  "scripts": { "start": "node server.js" },
-  "dependencies": {"express": "^4.19.2", "cors": "^2.8.5", "nanoid": "^5.0.6"}
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "nanoid": "^5.0.6"
+  }
 }
